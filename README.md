@@ -2,6 +2,9 @@
 
 Projeto de exposição para meu portfólio. Arena Furia é uma plataforma voltada para fanbase dos times da ***Furia***.
 
+**Acesse o projeto e conheça!**
+[Arena Furia](https://furia-omega.vercel.app/)
+
 ## Tecnologias Utilizadas
 - React
 - Node.Js
